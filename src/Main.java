@@ -8,12 +8,4 @@ public class Main {
         int a2 = 5;
         int b2 = 2;
         System.out.println(" число 5 в квадрате равно " + Math.pow(a2, b2));
-
-
-
-
-
-    }
-
-
-}
+    }}
